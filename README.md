@@ -1,2 +1,2 @@
 # NerdesivosStore-Wordpress
-Development of my Sticker store
+Desenvolvimento de um e-commerce com Wordpress e WooCommerce.
